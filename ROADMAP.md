@@ -4,6 +4,7 @@ Here's what we're planning to work on next. These are in no particular order and
 
 - [ ] Fix macOS code signing for app distribution (waiting for response from Apple)
 - [ ] Add progress indicators
+- [ ] Add required permissions for API tokens to credentials screen
 - [ ] Add session token to AWS login
 - [ ] Drag and drop file uploads and organization
 - [ ] Distribution via package managers (Homebrew, AUR, etc.)
