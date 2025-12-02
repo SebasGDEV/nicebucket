@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+## [0.2.0](https://github.com/nicebucket-org/nicebucket/compare/v0.1.3...v0.2.0) (2025-12-02)
+
+
+### Features
+
+* add mime type detection ([#70](https://github.com/nicebucket-org/nicebucket/issues/70)) ([857dd7b](https://github.com/nicebucket-org/nicebucket/commit/857dd7b2c05275cd4ee63dcdce0e6ed056e4f8b3))
+
 ### [0.1.3](https://github.com/nicebucket-org/nicebucket/compare/v0.1.2...v0.1.3) (2025-12-02)
 
 
